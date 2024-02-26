@@ -1,0 +1,241 @@
+*{ margin: 0;
+   padding: 0;
+   background-color: black;}
+   
+
+
+.food{
+     margin-left: 0px;
+     margin-right: 0px;
+       border: white;}
+
+.head-image{
+           background-color: white;
+            text-align: center;
+            border-radius: 30px;
+            margin-left: 750px;
+            margin-right: 750px;
+            padding-top: 30px;}
+
+.fuudies{
+         font-size: 55px;
+          margin-top: 80px;
+           margin-left: -70px;}
+
+.yam{
+      background-color: orange;
+       margin-left: 320px;
+       padding-top: 10px;
+       padding-left: 45px;
+       padding-bottom: 10px;
+       padding-right: 45px;
+       border-radius: 10px;}
+
+.rice{
+      background-color: orange;
+      margin-left: 190px;
+      padding-top: 10px;
+      padding-left: 45px;
+      padding-bottom: 10px;
+      padding-right: 45px;
+   border-radius: 10px;}
+
+.para{
+      display: flex;
+      margin-top: 30px;
+      font-size: 27px;
+      color: white;
+font-size: 45px;}
+
+.p1{
+      margin-left: 300px;
+}
+
+.p2{
+      margin-left: 250px;
+}
+
+.para-image{
+            margin-left: 305px;
+            margin-bottom: 0px;
+            background-color: orange;
+            padding-left: 10px;
+            padding-bottom: 10px;
+            padding-right: 50px;
+            padding-top: 20px;
+            border-bottom-left-radius: 250px;
+            border-top-left-radius: 250px;}
+
+.para-image img{
+                border-radius: 500px;
+}
+
+.Coleslaw{
+          color: white;
+          margin-top: 8px;
+          margin-left: 40px;
+          padding-left: 240px;
+          font-size: 40px;}
+
+.salad{
+            background-color: orange;
+             margin-left: 265px;
+             padding-top: 27px;
+             padding-left: 45px;
+             padding-bottom: 7px;
+             padding-right: 45px;
+             border-radius: 10px; 
+              font-size: 50px;
+            }
+
+
+
+              .yam{
+                  background-color: orange;
+                   margin-left: 320px;
+                   padding-top: 10px;
+                   padding-left: 45px;
+                   padding-bottom: 10px;
+                   padding-right: 45px;
+                   border-radius: 10px;}
+            
+            .rice{
+                  background-color: orange;
+                  margin-left: 190px;
+                  padding-top: 10px;
+                  padding-left: 45px;
+                  padding-bottom: 10px;
+                  padding-right: 45px;
+               border-radius: 10px;}
+
+/* .para2{
+          margin-left: 980px;
+          font-size: 50px;} */
+
+.protein{
+      background-color: orange;
+      margin-right: 150px;
+      padding-left: 45px;
+      padding-right: 45px;
+      padding-bottom: 15;
+      padding-top: 15px;
+      border-radius: 10px;
+     }
+
+.pasta{
+      background-color: orange;
+      padding-left: 40px;
+      padding-right: 40px;
+      padding-bottom: 15;
+      padding-top: 15px;
+      border-radius: 10px;}
+
+.spag-image{
+            margin-right: 200px;
+            border-color: orange;
+            margin-bottom: 0px;
+            background-color: orange;
+            padding-left: 10px;
+            padding-bottom: 10px;
+            padding-right: 10px;
+            padding-top: 10px;
+            border-bottom-right-radius: 250px;
+            border-top-right-radius: 250px;}
+            
+.spag-image img{
+      border-radius: 2400px;}
+
+
+.para2{
+       color: black;
+      margin-top: 30px;
+       font-size: 50px;
+       margin-left: 980px}
+
+
+
+
+.para-protein-pasta{
+                    color: white;
+                    display: flex;
+                    margin-top: 40px;
+                    margin-right: 20px;
+                    margin-bottom: 20px;}
+
+.p3{
+      font-size: 40px;
+      margin-left: 110px;}
+
+.p4{
+      font-size: 40px;
+       margin-right: 200px;}
+
+
+.para3{
+      font-size: 55px;
+      margin-top: 80px;
+      margin-left: -70px;}
+
+
+      .soup{
+            background-color: orange;
+             margin-left: 320px;
+             padding-top: 5px;
+             padding-left: 45px;
+             padding-bottom: 10px;
+             padding-right: 45px;
+             border-radius: 10px;}
+
+.swallow{
+            background-color: orange;
+            margin-left: 190px;
+            padding-top: 5px;
+            padding-left: 45px;
+            padding-bottom: 10px;
+            padding-right: 45px;
+         border-radius: 10px;}
+
+
+.para-image1{
+            margin-left: 430px;
+            margin-bottom: 0px;
+            background-color: orange;
+            padding-left: 10px;
+            padding-bottom: 10px;
+            padding-right: 80px;
+            padding-top: 20px;
+            border-bottom-left-radius: 250px;
+            border-top-left-radius: 250px;}
+
+.para-image1 img{
+                border-radius: 500px;}
+
+.contact{
+      display: flex;
+        color: orange;
+        font-size: 200px;
+        margin-left: 400px;
+        float: left;}
+
+.container{
+           border-color: orange;
+           font-size: 40px;
+           margin-top: 100px;
+           /* background-color: orange; */
+           padding-left: 20px;
+           padding-right: 20px;
+           padding-top: 20px;
+           padding-bottom: 20px;
+           border-radius: 20px;
+          }
+
+.p btn{
+       font-size: 10px;}
+
+.location{
+          font-size: 36px;
+      border: orange;}
+
+.btn2{
+       margin-left: 210px;
+       margin-top: 125px;}
